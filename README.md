@@ -1,2 +1,2 @@
-# Applicayionof datascience
- -Applicayionofdatascienceangn2
+# Applicationof datascience
+ -Applicationofdatascienceasgn2
